@@ -1,0 +1,26 @@
+---
+# Members of your group.
+group:
+  - name: Jock Li
+    netid: jl2698
+  - name: Daniel Lines
+    netid: dal337
+  - name: Atulya Lohani
+    netid: al878
+  - name: Emily Wang
+    netid: eyw23
+# Your PM.
+pm:
+  name: Owen Sorber
+  netid: ons3
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "JADE Chess"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/eyw23/final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a fully functional OCaml implementation of local multiplayer chess.
